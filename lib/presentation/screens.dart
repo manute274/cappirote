@@ -1,0 +1,13 @@
+export 'package:CAPPirote/presentation/screens/calendar_screen.dart';
+export 'package:CAPPirote/presentation/screens/createevent_screen.dart';
+export 'package:CAPPirote/presentation/screens/editprofile_screen.dart';
+export 'package:CAPPirote/presentation/screens/hdad_screen.dart';
+export 'package:CAPPirote/presentation/screens/home_screen.dart';
+export 'package:CAPPirote/presentation/screens/location_screen.dart';
+export 'package:CAPPirote/presentation/screens/login_screen.dart';
+export 'package:CAPPirote/presentation/screens/map_screen.dart';
+export 'package:CAPPirote/presentation/screens/noticia_screen.dart';
+export 'package:CAPPirote/presentation/screens/profile_screen.dart';
+export 'package:CAPPirote/presentation/screens/register_screen.dart';
+export 'package:CAPPirote/presentation/screens/selectdia_screen.dart';
+export 'package:CAPPirote/presentation/screens/selecthdad_screen.dart';

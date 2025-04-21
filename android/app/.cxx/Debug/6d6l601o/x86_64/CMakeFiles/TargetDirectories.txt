@@ -1,0 +1,2 @@
+C:/Users/manut/Desktop/TFG/Mi TFG/cappirote/android/app/.cxx/Debug/6d6l601o/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/manut/Desktop/TFG/Mi TFG/cappirote/android/app/.cxx/Debug/6d6l601o/x86_64/CMakeFiles/rebuild_cache.dir
